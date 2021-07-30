@@ -2,4 +2,4 @@
 
 We are the developers that created the South Park Soundboard app
 
-<img src=assets/app-icon.png alt="Home Screenshot" width="30%"/>
+<img src=assets/app-icon.png alt="App Icon"/>
