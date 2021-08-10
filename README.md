@@ -8,5 +8,5 @@ The South Park Soundboard is the ultimate hub for true South Park fans!
 Listen to over 5000 audio clips from over 270 different characters, spanning
 all 23 seasons of South Park.
 
-Available at the following locations:
+Available at the following location:
  - [Google Play Store](https://play.google.com/store/apps/details?id=me.soundbytes.southparksoundboard)
