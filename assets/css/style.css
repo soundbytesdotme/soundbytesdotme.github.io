@@ -1,0 +1,22 @@
+/* Montserrat Black 900 */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+body {
+	text-align: center;
+	background-color: #292929;
+	color: white;
+	font-family: Helvetica, Arial, sans-serif
+}
+
+#mainContent {
+	margin-top: 7%;
+}
+
+#linksContainer {
+	font-family: Montserrat;
+}
+
+a {
+	color: #FAC134;
+	text-decoration: none;
+}
