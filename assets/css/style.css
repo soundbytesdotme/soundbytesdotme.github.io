@@ -1,7 +1,21 @@
 /* Montserrat Black 900 */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 
+@media screen and (max-width: 425px) {
+  #appLogo {
+    max-width: 30%;
+  }
+}
+
+@media screen and (min-width: 426px) {
+  #appLogo {
+    max-width: 15%;
+  }
+}
+
 body {
+	margin-left: 10%;
+	margin-right: 10%;
 	text-align: center;
 	background-color: #292929;
 	color: white;
